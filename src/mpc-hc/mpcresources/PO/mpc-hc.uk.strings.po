@@ -7,9 +7,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MPC-HC\n"
-"POT-Creation-Date: 2016-10-17 00:35:36+0000\n"
-"PO-Revision-Date: 2016-10-23 10:59+0000\n"
-"Last-Translator: arestarh1986 <arestarh@ukr.net>\n"
+"POT-Creation-Date: 2017-06-03 12:18:37+0000\n"
+"PO-Revision-Date: 2017-06-03 15:00+0000\n"
+"Last-Translator: JellyFrog\n"
 "Language-Team: Ukrainian (http://www.transifex.com/mpc-hc/mpc-hc/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3593,6 +3593,10 @@ msgctxt "IDS_SUBTITLE_RENDERER_XY_SUB_FILTER"
 msgid "XySubFilter"
 msgstr "XySubFilter"
 
+msgctxt "IDS_SUBTITLE_RENDERER_ASS_FILTER"
+msgid "AssFilter"
+msgstr ""
+
 msgctxt "IDS_SUBDL_DLG_PROVIDER_COL"
 msgid "Provider"
 msgstr "Провайдер"
@@ -3959,5 +3963,9 @@ msgstr ""
 
 msgctxt "IDS_PPAGEADVANCED_USE_LEGACY_TOOLBAR"
 msgid "Use legacy toolbar instead of new vectorized one."
+msgstr ""
+
+msgctxt "IDS_SUBMENU_COPYURL"
+msgid "Copy URL"
 msgstr ""
 
